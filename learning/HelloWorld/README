@@ -1,0 +1,6 @@
+Note that in order to 
+run the program we first need to
+compile it by writing "javac x.java". 
+Followed by that we write 
+"java -cp . HelloWorldApp" Note that we do not write .java or .class but the identifying name. the dot implies that 
+it will look inside the current directory. 
